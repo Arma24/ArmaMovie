@@ -102,4 +102,5 @@
     <string name="title_activity_welcome">WelcomeActivity</string>
     <string name="start" />
     <string name="next" />
+    <string name="section_format">Hello World from section: %1$d</string>
 </resources>
